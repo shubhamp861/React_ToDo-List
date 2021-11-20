@@ -1,0 +1,23 @@
+.App {
+  background-color: rgb(21, 116, 92);
+  width: 60vh;
+  height: 65vh;
+  margin: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  border-radius: 5%;
+}
+
+.heading{
+  text-align: center;
+  margin-top: 10%;
+}
+
+input{
+  margin: auto;
+  margin-left: 20%;
+}
+
+ul{
+  margin-left: 15%;
+}
